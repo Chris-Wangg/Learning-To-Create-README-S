@@ -5,8 +5,7 @@ This story game is mainly based on the game **Rogue Lineage**, a perma-death sur
 
 #Requirements to run the game
 Python 3.7 is required to run the game. [Python 3.7](https://www.python.org/downloads/)
-## Run the Program
-
+Run The Program:
 ```python
 python game.py
 ```
