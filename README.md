@@ -7,7 +7,16 @@ This story game is mainly based on the game **Rogue Lineage**, a perma-death sur
 
 # Requirements to run the game
 Python 3.7 is required to run the game. [Python 3.7](https://www.python.org/downloads/)
+The game follows a simple choice-making concept, either input choice "A" or choice "B", each choice will have a description of what the user would do in the game.
+Once the game has ran successfully, press start to start a story, where a short prologue is introduced, then a welcome message is shown to the user and given instructions on how choices work/impact future interactions throughout the game.
 # Run The Program:
 ```python
 python game.py
 ```
+# Contributing
+
+That's the neat part, you don't.
+
+# License
+
+bit sad innit?
